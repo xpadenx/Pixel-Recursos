@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "mitiburon"
     },
+    "image3": {
+        "data": "assets/Woodland-4.png=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "woodland4"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
