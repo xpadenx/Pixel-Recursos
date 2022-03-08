@@ -49,6 +49,25 @@ namespace myImages {
 ..............cccfffbdbbfcc.....fbbf
 ....................fffff........fff
 `;
+                case "image3":
+            case "woodland4":return img`
+ 0 0 0 0 f f f f f f f f f f f f
+    0 0 0 0 f f f f f f f f f f f f
+    0 0 0 0 f f f f f f f f f f f f
+    0 0 0 0 f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    f f f f f f f f f f f f f f f f
+    `;
         }
         return null;
     })
